@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I’m Raga Shreya 👋
 
-<!--
-**ragashreya09/ragashreya09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build machine learning systems that go beyond notebooks and work in production.
+With 3+ years of experience, I focus on taking ideas from data exploration to
+trained models, deployed APIs, and monitored ML systems.
 
-Here are some ideas to get you started:
+My background spans classical machine learning, MLOps, and Generative AI, and I
+enjoy designing end-to-end pipelines where models are trained, evaluated, served,
+and improved over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I Work With
+- Machine Learning, Feature Engineering, Model Evaluation
+- PyTorch, TensorFlow, scikit-learn, MLflow
+- LLMs, Retrieval-Augmented Generation (RAG), FastAPI
+- AWS, GCP, Docker, Terraform
+
+---
+
+### 📂 Featured Projects
+- **Customer Churn Prediction System**  
+  End-to-end ML pipeline covering data processing, model training, evaluation,
+  and FastAPI-based deployment for real-time inference.
+
+- **AI Career Copilot**  
+  Deployed AI application for resume analysis, skill-gap identification, and
+  career recommendations using LLM-powered workflows.
+
+- **Virtual Assistant for Visually Impaired**  
+  Voice-enabled system combining NLP, OCR, and speech recognition to enable
+  document reading and hands-free interaction.
+
+---
+
+### 🌍 Open to Opportunities
+Open to roles where I can **build, deploy, and scale** machine learning systems,
+and collaborate on solving real-world problems.
+
